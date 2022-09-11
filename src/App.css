@@ -1,0 +1,40 @@
+.App {
+  margin: auto;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(55, 55, 55);
+  color: white;
+}
+
+p {
+  color: #DE6F3D;
+}
+
+button {
+  margin: 0rem 0.25rem 0rem 0.25rem;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  border-radius: 1.5rem;
+}
+
+.book-name {
+  display: block;
+  margin: 2rem 6rem;
+  padding: 1rem;
+  text-align: left;
+  border: white solid;
+  color: #DE6F3D;
+  border-radius: 1rem;
+}
+
+span {
+  padding: 1rem;
+}
+
+div {
+  padding: 1rem;
+}
+
+hr {
+  margin: 2rem;
+}

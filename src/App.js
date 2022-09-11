@@ -6,62 +6,62 @@ export default function App() {
   const bookDetails = [
     {
       name: "The Wonder that was India",
-      Author: "A.L.Basham",
+      Author: ": A.L.Basham",
       category: "History",
     },
     {
       name: "Rebel Sultans",
-      Author: "Manu Pillai",
+      Author: ": Manu Pillai",
       category: "History",
     },
     {
       name: "The Ocean of Churn",
-      Author: "Sanjeev Sanyal",
+      Author: ": Sanjeev Sanyal",
       category: "History",
     },
     {
       name: "Papilon",
-      Author: "Henri Charrière",
+      Author: ": Henri Charrière",
       category: "Novel",
     },
     {
       name: "Malgudi Days",
-      Author: "R.K.Narayan",
+      Author: ": R.K.Narayan",
       category: "Novel",
     },
     {
       name: "The Magic of The Lost Temple",
-      Author: "Sudha Murti",
+      Author: ": Sudha Murti",
       category: "Novel",
     },
     {
       name: " Harry Potter",
-      Author: "J.K.rollins",
+      Author: ": J.K.rollins",
       category: "Fiction",
     },
     {
       name: "Songs of Ice and Fire",
-      Author: "R. R. Martin",
+      Author: ": R.R.Martin",
       category: "Fiction",
     },
     {
       name: "The Prestige ",
-      Author: "Christopher Priest",
+      Author: ": Christopher Priest",
       category: "Fiction",
     },
     {
       name: "Wings of Fire",
-      Author: "Dr.A.P.J.Abdul Kalam",
+      Author: ": Dr.A.P.J.Abdul Kalam",
       category: "Autobiography",
     },
     {
       name: "Autobiography Of A Yogi",
-      Author: "Paramhansa Yogananda",
+      Author: ": Paramhansa Yogananda",
       category: "Autobiography",
     },
     {
       name: "My India",
-      Author: "Jim Corbett",
+      Author: ": Jim Corbett",
       category: "Autobiography",
     },
   ];
